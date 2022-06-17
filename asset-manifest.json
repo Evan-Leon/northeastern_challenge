@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/northeastern_challenge/static/css/main.957183c7.css",
+    "main.js": "/northeastern_challenge/static/js/main.c603de91.js",
+    "index.html": "/northeastern_challenge/index.html",
+    "main.957183c7.css.map": "/northeastern_challenge/static/css/main.957183c7.css.map",
+    "main.c603de91.js.map": "/northeastern_challenge/static/js/main.c603de91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.957183c7.css",
+    "static/js/main.c603de91.js"
+  ]
+}
