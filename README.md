@@ -32,7 +32,7 @@ Prism.js is designed for code syntax highlighting, similar to that of many IDEs.
     * Youtube: | - 
 
 # Deployment
-This search query formatter was deployed on heroku, so users can access it publicly. You can play with this formatter [here](https://northeastern-exercise.herokuapp.com/)
+This search query formatter was deployed on heroku, so users can access it publicly. You can play with this formatter [here](https://evan-leon.github.io/northeastern_challenge/)
 
 # Running Locally
 In order to run this project, you need Node.js installed. With the proper installations, you should be able to run the app via `npm run start` in the project root directory. 
